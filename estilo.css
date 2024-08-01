@@ -51,3 +51,50 @@
     background-color: #d36833;
     color: #fff;
     }
+
+.header_quemsomos{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.header_quemsomos h1{
+    font-size: 1.8em;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.header_quemsomos .header_quemsomos_content h2{
+font-size: 1.4em;
+margin-top: 20px;
+margin-bottom: 10px;
+font-size: 1.4em;
+
+}
+
+.header_quemsomos .header_quemsomos_content p{
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 30px;
+}
+
+.header_quemsomos .header_quemsomos_content img{
+    width: 300px;
+    border-radius: 50%;
+}
+.box {
+    margin: 20px auto;
+    width: 90%;
+}
+.box h1{
+    font-size:1.8em;
+    text-transform: uppercase;
+
+}
+
+.box .texto p{
+    margin-top: 10px;
+    text-align:justify;
+    font-size: 1.2em;
+    line-height: 30px;
+}
+
